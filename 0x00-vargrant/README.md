@@ -1,2 +1,1 @@
-This is the vargrant directory
-readme 
+This is the vargrant directory 
